@@ -8,7 +8,7 @@ namespace final_project_backend.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching" ,"Test"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching" ,"Test", "aasdasdasdsa"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
